@@ -10,6 +10,8 @@ A simple interface to `webkitNotification`
 * Specifications from W3
 --- [https://dvcs.w3.org/hg/notifications/raw-file/tip/Overview.html][2]
 
+
+
     ```javascript
     var ready_to_use = notice.ready();
     // returns true if everything is ready
